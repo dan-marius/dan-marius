@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dan-marius
 - 👀 I’m interested in General Programming and mostly the power that comes with it.
-- 🌱 I’m currently learning C, JavaScript, CSS.
+- 🌱 I am quite fluent in python even if my primary language is C that I learned many many years ago.
 - 💞️ I’m looking to collaborate on anything for free as long as I gain by learning.
 - 📫 How to reach me @dan_marius_8@yahoo.com
 
